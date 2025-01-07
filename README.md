@@ -1,1 +1,1 @@
-bye!
+Hello and Bye from Git!
